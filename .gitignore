@@ -24,4 +24,7 @@ target/*
 # ignore submission files
 hw*.zip
 
+# ignore output
+diffs
+your_output
 
